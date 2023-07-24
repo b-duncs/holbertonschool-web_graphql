@@ -2,6 +2,8 @@
   "name": "holbertonschool-web_graphql",
   "version": "1.0.0",
   "dependencies": {
-    "apollo-boost": "^0.4.9"
+    "apollo-boost": "^0.4.9",
+    "graphql": "^14.7.0",
+    "react-apollo": "^3.1.5"
   }
 }
